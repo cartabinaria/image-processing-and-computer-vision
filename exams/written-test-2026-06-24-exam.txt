@@ -1,0 +1,12 @@
+LM in Artificial Intelligence Image Processing and Computer Vision
+24/06/2026
+
+1)
+    (A) Briefly describe the Harris corner detector and its differences with respect to the Moravec corner detector.
+    (B) Provide the mathematical formulation of the structure matrix explaining what information it captures describe the cornerness function defined by Harris to distinguish uniform regions, edges, and corners.
+    (C) Provide a brief list of the transformations with respect to which the Harris corner detector is invariant, and those with respect to which it is not invariant.
+
+2)
+    (A) Present the task and challenges of image classification. Then describe in detail a shallow, linear classifier working on D×H×W images for a dataset with C classes and explain its main weaknesses using a template matching interpretation.
+    (B) Discuss the structure of 2D convolutional layers and the properties that make them preferable to linear layers when processing images.
+    (C) Motivate the main differences in initial and final layers between AlexNet and subsequent main convnets.
